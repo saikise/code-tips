@@ -1,3 +1,6 @@
 [submodule "web/next-jest/simple-unit-test-ctwnj"]
 	path = web/next-jest/simple-unit-test-ctwnj
 	url = https://github.com/saikise/simple-unit-test-ctwnj.git
+[submodule "web/next-cypress/simple-unit-test-ctwnc"]
+	path = web/next-cypress/simple-unit-test-ctwnc
+	url = https://github.com/saikise/simple-unit-test-ctwnc.git
